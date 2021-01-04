@@ -1,4 +1,4 @@
-//A node class which creates the nodes for the linked List along basic getter and setter functions
+//A node class header fil which creates the nodes for the linked List along basic getter and setter functions
 
 #include<iostream>
 using namespace std;
