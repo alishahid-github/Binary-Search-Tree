@@ -1,4 +1,4 @@
-//.cpp file of the Node class includes implementaion of funtions
+//.cpp file of the Node class includes implementaion of  funtions wriiten in Node Header file
 
 #include<iostream>
 #include"BST.h"
